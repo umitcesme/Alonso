@@ -1,0 +1,73 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.intro{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.slogan{
+    padding-top: 50px;
+}
+.slogan h1{
+    font-size: 60px;
+    color: aliceblue;
+}
+.intro h2{
+    color: aliceblue;
+}
+.explanation-text{
+    font-size: 26px;
+    text-align: center;
+}
+.products{
+    background-image: url(images/catalog-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.products-title{
+    padding: 25px 0;
+}
+.products-title h3{
+    color: aliceblue;
+    text-align: center;
+}
+.company{
+    padding: 50px 0;
+}
+.company-title{
+    text-align: center;
+}
+.company h6{
+    padding: 15px 0;
+}
+.reviews{
+    background: #f7fdfe;
+}
+.reviews-title{
+    text-align: center;
+    padding: 30px 0;
+}
+.contact{
+    background-image: url(images/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-title{
+    padding: 50px 0;
+}
+.contact-title h3{
+    text-align: center;
+    color: #f7fdfe;
+}
+.button-area{
+    padding: 30px 0;
+}
+.contact p{
+    color: #f7fdfe;
+}
